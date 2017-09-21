@@ -1,2 +1,4 @@
 .idea/*
 *.iml
+packer_cache/*
+output-virtualbox-iso/*
